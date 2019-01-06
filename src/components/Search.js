@@ -13,7 +13,7 @@ class Search extends React.Component {
     {
         return (
             <div id="search">
-			<label htmlFor=""><i class="fa fa-search" aria-hidden="true"></i></label>
+			<label htmlFor=""><i className="fa fa-search" aria-hidden="true"></i></label>
 			<input type="text" placeholder="Search contacts..." />
 		</div>
         )
